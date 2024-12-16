@@ -4,4 +4,4 @@ https://docs.google.com/document/d/1g8i7gCVGD7b4iQprXWJb5e84gjt7Leri/edit?usp=sh
 
 Video:
 
-ini link yt
+[ini link yt](https://youtu.be/rOVM3qBODkI)
